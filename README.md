@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./github-banner.png" alt="Rishi Kumar - Aspiring Data Analyst" width="100%">
-</p>
 # Hi, I'm Rishi 👋
 
 ## Aspiring Data Analyst
