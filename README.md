@@ -5,12 +5,16 @@
 
 <!-- Animated Header & Profile Metrics -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%26+Python+Enthusiast;Power+BI+%26+Excel+Expert;B.Com+Student" alt="Typing SVG" />
+  <!-- Neon Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Insights" alt="Typing SVG" />
+  </a>
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=rishikumarcricket49-droid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rishikumarcricket49-droid?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=rishikumarcricket49-droid&label=Profile%20views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rishikumarcricket49-droid?label=Followers&style=flat-square&color=00F0FF" alt="Followers" />
 </div>
 
 <br>
@@ -18,43 +22,45 @@
 <!-- Introduction -->
 <h2 align="center">Hi there 👋, I'm Rishi Kumar</h2>
 <p align="center">
-  I am a B.Com student focused on building practical data analysis skills and real-world projects. I love turning raw data into actionable business insights!
+  I am a B.Com student focused on building practical data analysis skills. I love turning raw data into actionable business insights!
 </p>
 
 ---
 
-<!-- Categorized Tech Stack -->
+<!-- Colorful Tech Stack (Skill Icons) -->
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
-
-<p align="center"><b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-<p align="center"><b>Data Visualization & BI:</b><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,github,git,vscode" alt="My Skills" />
+  </a>
+  <br><br>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
-
-<p align="center"><b>Data Manipulation & Tools:</b><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
 
-<!-- Advanced GitHub Analytics -->
+<!-- Advanced GitHub Analytics (Radical Neon Theme) -->
 <h3 align="center">📈 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikumarcricket49-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rishi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumarcricket49-droid&theme=tokyonight&hide_border=true&background=0D1117" alt="Rishi's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikumarcricket49-droid&show_icons=true&theme=radical&hide_border=true" alt="Rishi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikumarcricket49-droid&theme=radical&hide_border=true" alt="Rishi's GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikumarcricket49-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikumarcricket49-droid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishikumarcricket49-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rishikumarcricket49-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Colorful Activity Graph -->
+<h3 align="center">📊 Contribution Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishikumarcricket49-droid&theme=react-dark&bg_color=141321&color=00F0FF&line=FE428E&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -89,13 +95,10 @@
 
 ---
 
-<!-- Learning & Certifications -->
-<h3 align="center">📚 Learning Roadmap & Certifications</h3>
+<!-- Daily Dev Quote (Dynamic) -->
+<h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
-  <b>Currently Learning:</b> Advanced SQL, Machine Learning Basics, Data Visualization Techniques.
-</p>
-<p align="center">
-  <b>Certifications:</b> (Coming Soon! Preparing for Google Data Analytics Certification)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
@@ -110,7 +113,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="YOUR_KAGGLE_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
