@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1bceee1-a86e-451b-a13e-823eca3d5208.png" alt="Rishi Kumar Banner" width="100%">
+  <img src="https://github.com/rishikumarcricket49-droid/rishikumarricket49-droid/blob/main/1bcecee1-a86e-451b-a13e-823eca3d5208.png?raw=true" alt="Rishi Kumar Banner" width="100%">
 </p>
 # Hi, I'm Rishi 👋
 
