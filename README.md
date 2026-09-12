@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./1bceee1-a86e-451b-a13e-823eca3d5208.png" alt="Rishi Kumar Banner" width="100%">
+</p>
 # Hi, I'm Rishi 👋
 
 ## Aspiring Data Analyst
