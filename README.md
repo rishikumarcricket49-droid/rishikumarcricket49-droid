@@ -1,3 +1,7 @@
+<!-- Capsule Render Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5&height=200&section=header&text=Rishi%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/rishikumarcricket49-droid/rishikumarricket49-droid/blob/main/1bcecee1-a86e-451b-a13e-823eca3d5208.png?raw=true" alt="Rishi Kumar Banner" width="100%">
